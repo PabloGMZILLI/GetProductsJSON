@@ -10,3 +10,6 @@ Após ter instalado o Tampermonkey [clique aqui](../../raw/master/getProductsJso
 ### Extensão
 Essa extensão tem como único objetivo selecionar todos os produtos cadastrados no CMS Drupal 8 transformando em um json 
 com o método selecionado e o site-id desejado facilitando o push delete de todos os produtos contidos.
+
+### Agradecimentos
+Agradecimento especial ao [Fernando Basso](https://gist.github.com/FernandoBasso)! 
