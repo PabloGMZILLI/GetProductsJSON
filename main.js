@@ -108,7 +108,7 @@ function startSystem() {
     var buttonGetProducts = document.querySelector('.btn-getProducts')
     var selectGetProducts = document.querySelector('.select-getProducts')
     var inputGetProducts = document.querySelector('.input-getProducts')
-    var container = document.querySelector('#block-seven-content .view-filters .form--inline')
+    var container = document.querySelector('.view-filters .form--inline')
     if (divMaster === null && buttonGetProducts === null && selectGetProducts === null && inputGetProducts === null && container != null){
         createDiv(container)
         createInput()
