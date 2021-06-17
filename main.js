@@ -96,7 +96,7 @@ function createInput() {
 
     input.setAttribute('class', 'form-text input-getProducts')
     input.setAttribute('style', 'margin: 4px;')
-    input.value = 'natura-site'
+    input.value = 'site-site'
 
     div.appendChild(input)
 
